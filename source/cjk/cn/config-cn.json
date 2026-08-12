@@ -2,7 +2,7 @@
   "$schema": "../cjk_schema.json",
   "locale_name": "CN",
   "source": {
-    "path": "../variable-source/WenYuanRoundedSCVF.ttf",
+    "path": "LXGWWenKaiMono-Medium.ttf",
     "download": {
       "url": "https://github.com/takushun-wu/WenYuanFonts/releases/download/v1.000/WenYuanRoundedSCVF.ttf"
     },
