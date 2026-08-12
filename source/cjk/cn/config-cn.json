@@ -2,7 +2,7 @@
   "$schema": "../cjk_schema.json",
   "locale_name": "CN",
   "source": {
-    "path": "LXGWWenKaiMono-Medium.ttf",
+    "path": "./LXGWWenKaiMono-Medium.ttf",
     },
     "drop_tables": [
       "BASE",
