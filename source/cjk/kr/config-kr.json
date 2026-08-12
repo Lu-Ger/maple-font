@@ -3,7 +3,7 @@
   "locale_name": "KR",
   "source": {
     "path": "../cn/LXGWWenKaiMono-Medium.ttf",
-
+    "format": "ttf" 
     },
     "drop_tables": [
       "BASE",
