@@ -3,7 +3,7 @@
   "locale_name": "TC",
   "freeze_feature": "cv99",
   "source": {
-    "path": "../variable-source/ChironGoRoundTCVF.ttf",
+    "path": "../LXGWWenKaiMono-Medium.ttf",
     "download": {
       "url": "https://github.com/chiron-fonts/chiron-go-round-tc/raw/v1.011/VAR_TTF/ChironGoRoundTCVF.ttf"
     },
