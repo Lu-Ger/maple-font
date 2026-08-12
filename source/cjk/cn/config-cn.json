@@ -3,6 +3,7 @@
   "locale_name": "CN",
   "source": {
     "path": "./LXGWWenKaiMono-Medium.ttf",
+    "format": "ttf" 
     },
     "drop_tables": [
       "BASE",
